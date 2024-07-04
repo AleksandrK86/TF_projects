@@ -1,5 +1,5 @@
 # Тинькофф квест: воронка продаж
-[Ссылка на IPYNB](https://github.com/AleksandrK86/TF_projects/blob/main/quest_funnel/Quest_funnel.ipynb)
+[Ссылка на проект (IPYNB)](https://github.com/AleksandrK86/TF_projects/blob/main/quest_funnel/Quest_funnel.ipynb)
 
 **Задачи проекта:**
 1. Сделать выгрузку из БД вымышленной франшизы квестов "Тиькофф квест", необходимую для построения воронки продаж.
